@@ -1,11 +1,11 @@
-### About 0xadrii
+## About 0xadrii
 
 I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Auditor at Blackthorn, with more than 3 years of experience working in the DeFi ecosystem as both developer and security researcher. I've conducted audits for a wide range of DeFi projects, including lending protocols, stablecoins, omnichain systems, and account abstraction, identifying vulnerabilities in top live protocols like Safe, Yearn, and Renzo.
 
 
-## 🔒 Security portfolio:
+## Security portfolio:
 
-## 🏆 Competitive audits
+### 🏆 Competitive audits
 | Contest | Type | Date | Leaderboard | Report | 
 | - | - | - | - | - | 
 | Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/138/report)
@@ -31,7 +31,7 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 | Arcadia | Lending | 27-06-2024 | 3 LOW  |  [📄](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) 
 | Amplified | Yield Management | 18-09-2024 | 2 CRITICAL / 3 HIGH / 5 MEDIUM / 6 LOW  |  [📄](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-amplified-zenith.pdf) 
 
-## 🐛 Bug bounties
+### 🐛 Bug bounties
 | Bounty | Platform | Severity | Date | Report |
 | - | - | :-: | :-: | :-: |
 | Yearn Finance: Improper strategy parameters adjustment due to incorrect loss accounting | Immunefi | Low | 04-04-2023 | [📄](/bounties/yearn_04-04-2023.md) 
