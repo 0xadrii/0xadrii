@@ -18,6 +18,7 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 | CCIP V1.5 | Cross-Chain | 02-07-2024 | [Top 5 (anon)](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | Private
 | Midas | RWA | 19-08-2024 | [Top 5](https://audits.sherlock.xyz/contests/495) | [📄](https://audits.sherlock.xyz/contests/495/report)
 | Redstone | Oracles | 24-09-2024 | [🥉 (anon)](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard) | Private
+| Plaza Finance | Bonds | 14-01-2025 | [🥉](https://audits.sherlock.xyz/contests/682/leaderboard) | [📄](https://audits.sherlock.xyz/contests/682/report)
 
 ### 🕵️ Private audits
 
