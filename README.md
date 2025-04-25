@@ -6,22 +6,22 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 ## Security portfolio:
 
 ### 🏆 Competitive audits
-| Contest | Type | Date | Leaderboard | Report | 
-| - | - | - | - | - | 
-| Ubiquity | Stablecoin | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/138/report)
-| Telcoin | Governance | 12-01-2024 | [🥉](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/156/report)
-| Arcadia | Lending | 29-01-2024 | [🥉](https://audits.sherlock.xyz/contests/137) | [📄](https://audits.sherlock.xyz/contests/137/report)
-| Opal | Omnipools | 12-02-2024 | [Top 5]([https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard)) | [📄](https://cantina.xyz/portfolio/0c9f46ff-e5b4-412c-b928-ecb135f44007)
-| Tapioca | Omnichain/Lending | 23-02-2024 | [Top 5](https://audits.sherlock.xyz/contests/170) | [📄](https://audits.sherlock.xyz/contests/170/report)
-| Teller Finance | Lending | 23-04-2024 | [🥈](https://audits.sherlock.xyz/contests/295) | [📄](https://audits.sherlock.xyz/contests/295/report)
-| Telcoin Wallet | Wallet | 04-06-2024 | [🥇](https://audits.sherlock.xyz/contests/299) | Private
-| CCIP V1.5 | Cross-Chain | 02-07-2024 | [Top 5 (anon)](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | Private
-| Midas | RWA | 19-08-2024 | [Top 5](https://audits.sherlock.xyz/contests/495) | [📄](https://audits.sherlock.xyz/contests/495/report)
-| Redstone | Oracles | 24-09-2024 | [🥉 (anon)](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard) | Private
-| Farcaster Attestation | Farcaster | 13-01-2025 | [🥇](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | TBD
-| Plaza Finance | Bonds | 14-01-2025 | [🥉](https://audits.sherlock.xyz/contests/682/leaderboard) | [📄](https://audits.sherlock.xyz/contests/682/report)
-| Liquid Ron | Liquid Staking | 28-01-2025 | [🥉 (anon)](https://code4rena.com/audits/2025-01-liquid-ron) | TBD
-
+| Contest | Type | Language | Date | Leaderboard | Report | 
+| - | - | - | - | - | - | 
+| Ubiquity | Stablecoin | Solidity | 02-01-2024 | [Top 5](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/138/report)
+| Telcoin | Governance | Solidity | 12-01-2024 | [🥉](https://audits.sherlock.xyz/contests/156) | [📄](https://audits.sherlock.xyz/contests/156/report)
+| Arcadia | Lending | Solidity | 29-01-2024 | [🥉](https://audits.sherlock.xyz/contests/137) | [📄](https://audits.sherlock.xyz/contests/137/report)
+| Opal | Omnipools | Solidity | 12-02-2024 | [Top 5](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard) | [📄](https://cantina.xyz/portfolio/0c9f46ff-e5b4-412c-b928-ecb135f44007)
+| Tapioca | Omnichain/Lending | Solidity | 23-02-2024 | [Top 5](https://audits.sherlock.xyz/contests/170) | [📄](https://audits.sherlock.xyz/contests/170/report)
+| Teller Finance | Lending | Solidity | 23-04-2024 | [🥈](https://audits.sherlock.xyz/contests/295) | [📄](https://audits.sherlock.xyz/contests/295/report)
+| Telcoin Wallet | Wallet | Solidity | 04-06-2024 | [🥇](https://audits.sherlock.xyz/contests/299) | Private
+| CCIP V1.5 | Cross-Chain | Solidity | 02-07-2024 | [Top 5 (anon)](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | Private
+| Midas | RWA | Solidity | 19-08-2024 | [Top 5](https://audits.sherlock.xyz/contests/495) | [📄](https://audits.sherlock.xyz/contests/495/report)
+| Redstone | Oracles | Sway (Fuel) | 24-09-2024 | [🥉 (anon)](https://cantina.xyz/competitions/8337db39-e04e-470d-8090-0cfb9a7ec2dd/leaderboard) | Private
+| Farcaster Attestation | Solidity | Farcaster | 13-01-2025 | [🥇](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | TBD
+| Plaza Finance | Bonds | Solidity | 14-01-2025 | [🥉](https://audits.sherlock.xyz/contests/682/leaderboard) | [📄](https://audits.sherlock.xyz/contests/682/report)
+| Liquid Ron | Liquid Staking | Solidity | 28-01-2025 | [🥉 (anon)](https://code4rena.com/audits/2025-01-liquid-ron) | TBD
+| Blend | Lending | Soroban (Rust - Stellar) | 28-01-2025 | [11](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | TBD
 
 ### 🕵️ Private audits
 
