@@ -21,7 +21,7 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 | Farcaster Attestation | Solidity | Farcaster | 13-01-2025 | [🥇](https://cantina.xyz/competitions/f9326d2b-bb99-45a9-88c5-94c54aa1823a/leaderboard) | TBD
 | Plaza Finance | Bonds | Solidity | 14-01-2025 | [🥉](https://audits.sherlock.xyz/contests/682/leaderboard) | [📄](https://audits.sherlock.xyz/contests/682/report)
 | Liquid Ron | Liquid Staking | Solidity | 28-01-2025 | [🥉 (anon)](https://code4rena.com/audits/2025-01-liquid-ron) | TBD
-| Blend | Lending | Soroban (Rust - Stellar) | 28-01-2025 | [11](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | TBD
+| Blend | Lending | Soroban (Rust - Stellar) | 24-02-2025 | [11](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | TBD
 
 ### 🕵️ Private audits
 
