@@ -5,6 +5,11 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 
 ## Security portfolio:
 
+### 🔥 Highlights
+- Audited EIP-7002 and EIP-7251 for the Ethereum Foundation as part of the Pectra upgrade.
+- Participated in +20 audit competitions, with 3 first places and +10 top 5 placements.
+- Secured +$1B by submitting vulnerabilities via bug bounties.
+
 ### 🏆 Competitive audits
 | Contest | Type | Language | Date | Leaderboard | Report | 
 | - | - | - | - | - | - | 
@@ -24,16 +29,20 @@ I’m an EVM security researcher, Lead Senior Watson at Sherlock and Founding Au
 | Blend | Lending | Soroban (Rust - Stellar) | 24-02-2025 | [11](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | TBD
 
 ### 🕵️ Private audits
-
-| Contest | Type | Date | Result |  Report | 
-| - | - | - | - | - |
-| Asterix | NFTs | 01-04-2024 | 2 LOW / 1 GAS / 3 INFORMATIONAL |  [📄](/private_audits/pdf/asterix_audit_report-enigma_dark.pdf) 
-| ERC6551 | Token Bound Account | 01-04-2024 | 2 LOW / 1 INFORMATIONAL |  [📄](/private_audits/pdf/solady_ERC6551_audit_report-enigma_dark.pdf) 
-| Tapioca Magnetar | Omnichain/Lending | 12-04-2024 | 7 HIGH / 3 MEDIUM / 4 LOW / 5 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_magnetar_audit_report.pdf) 
-| Ubiquity Dollar | Stablecoin | 18-04-2024 | 2 MEDIUM / 1 LOW / 6 GAS / 2 INFORMATIONAL |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
-| Tapioca Bar | Omnichain/Lending | 15-05-2024 | 4 HIGH / 4 MEDIUM / 3 LOW / 2 INFORMATIONAL |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
-| Arcadia | Lending | 27-06-2024 | 3 LOW  |  [📄](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) 
-| Amplified | Yield Management | 18-09-2024 | 2 CRITICAL / 3 HIGH / 5 MEDIUM / 6 LOW  |  [📄](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-amplified-zenith.pdf) 
+| Contest | Type | Date  |  Report | 
+| - | - | - | - |
+| Asterix | NFTs | 01-04-2024 |   [📄](/private_audits/pdf/asterix_audit_report-enigma_dark.pdf) 
+| ERC6551 | Token Bound Account | 01-04-2024 |  [📄](/private_audits/pdf/solady_ERC6551_audit_report-enigma_dark.pdf) 
+| Tapioca Magnetar | Omnichain/Lending | 12-04-2024 | [📄](/private_audits/pdf/tapioca_magnetar_audit_report.pdf) 
+| Ubiquity Dollar | Stablecoin | 18-04-2024 |  [📄](/private_audits/pdf/ubiquity_dollar_audit_report.pdf) 
+| Tapioca Bar | Omnichain/Lending | 15-05-2024 |  [📄](/private_audits/pdf/tapioca_bar_audit_report.pdf) 
+| Arcadia | Lending | 27-06-2024 |  [📄](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) 
+| Amplified | Yield Management | 18-09-2024 |  [📄](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-09-amplified-zenith.pdf) 
+| Ethereum Foundation | Pectra Upgrade | 28-10-2024 | [📄](https://github.com/ethereum/audits/blob/master/Pectra/2025_02_04_Final_Ethereum_Foundation_Collaborative_Audit_Report.pdf)
+| Mellow | AMM | 20-11-2024 | TBD
+| Dodo | AMM | 23-12-2024 | TBD
+| Beraborrow | Stablecoin | 27-01-2025 | TBD
+| 40Acres | Lending | 24-03-2025 | TBD
 
 ### 🐛 Bug bounties
 | Bounty | Platform | Severity | Date | Report |
